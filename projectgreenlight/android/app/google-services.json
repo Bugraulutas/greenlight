@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926130924507",
+    "project_id": "savinglight-f1ffd",
+    "storage_bucket": "savinglight-f1ffd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926130924507:android:b1a1dc1d3cab07763a95fe",
+        "android_client_info": {
+          "package_name": "com.example.projectsavinglight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926130924507-1unqfpf19kqpieojtd0som7jcv9hgl9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlFlp6-rZWDKB2XgtiZfQk9kJyjHvGGMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926130924507-1unqfpf19kqpieojtd0som7jcv9hgl9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
